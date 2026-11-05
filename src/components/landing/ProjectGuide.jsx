@@ -4,7 +4,7 @@ import Reveal from "../common/Reveal.jsx";
 const projectGuide = {
   name: "Soumen Mondal",
   designation: "Project Supervisor",
-  department: "Computer Science & Technology",
+  department: "Computer Science & Technology (HOD)",
   photo: "/college/soumen_sir.jpeg",
 };
 
