@@ -1,11 +1,11 @@
-import { ArrowUpRight, GraduationCap, UserRound } from "lucide-react";
+import { GraduationCap, UserRound } from "lucide-react";
 import Reveal from "../common/Reveal.jsx";
 
 const projectGuide = {
   name: "Soumen Mondal",
   designation: "Project Supervisor",
   department: "Computer Science & Technology",
-  photo: "",
+  photo: "/college/soumen_sir.jpeg",
 };
 
 export default function ProjectGuide() {
